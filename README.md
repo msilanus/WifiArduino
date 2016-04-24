@@ -24,6 +24,8 @@ Fonctionne avec le projet Visual studio C#
 - Arduino Uno ou Mega ou ...
 - Shield WiFi Arduino (officiel)
 - Led sur pin 9
+
+![WiFiShield](ArduinoWifiShield.jpg)
   
 sur WifiServer.ino :
  
