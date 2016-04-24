@@ -1,0 +1,14 @@
+C:\Users\Marco\AppData\Local\Temporary Projects\WifiArduinoLed\bin\Debug\WifiArduinoLed.exe
+C:\Users\Marco\AppData\Local\Temporary Projects\WifiArduinoLed\bin\Debug\WifiArduinoLed.pdb
+C:\Users\Marco\AppData\Local\Temporary Projects\WifiArduinoLed\obj\x86\Debug\WifiArduinoLed.Form1.resources
+C:\Users\Marco\AppData\Local\Temporary Projects\WifiArduinoLed\obj\x86\Debug\WifiArduinoLed.Properties.Resources.resources
+C:\Users\Marco\AppData\Local\Temporary Projects\WifiArduinoLed\obj\x86\Debug\WifiArduinoLed.csproj.GenerateResource.Cache
+C:\Users\Marco\AppData\Local\Temporary Projects\WifiArduinoLed\obj\x86\Debug\WifiArduinoLed.exe
+C:\Users\Marco\AppData\Local\Temporary Projects\WifiArduinoLed\obj\x86\Debug\WifiArduinoLed.pdb
+C:\Users\Marco\documents\visual studio 2010\Projects\WifiArduinoLed\WifiArduinoLed\obj\x86\Debug\WifiArduinoLed.exe
+C:\Users\Marco\documents\visual studio 2010\Projects\WifiArduinoLed\WifiArduinoLed\obj\x86\Debug\WifiArduinoLed.pdb
+C:\Users\Marco\documents\visual studio 2010\Projects\WifiArduinoLed\WifiArduinoLed\bin\Debug\WifiArduinoLed.exe
+C:\Users\Marco\documents\visual studio 2010\Projects\WifiArduinoLed\WifiArduinoLed\bin\Debug\WifiArduinoLed.pdb
+C:\Users\Marco\documents\visual studio 2010\Projects\WifiArduinoLed\WifiArduinoLed\obj\x86\Debug\WifiArduinoLed.Form1.resources
+C:\Users\Marco\documents\visual studio 2010\Projects\WifiArduinoLed\WifiArduinoLed\obj\x86\Debug\WifiArduinoLed.Properties.Resources.resources
+C:\Users\Marco\documents\visual studio 2010\Projects\WifiArduinoLed\WifiArduinoLed\obj\x86\Debug\WifiArduinoLed.csproj.GenerateResource.Cache
